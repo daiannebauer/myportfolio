@@ -1,3 +1,6 @@
+import Hoobank from "../assets/Hoobank.jpg";
+import ToDo from "../assets/work5.jpg";
+
 export const menuLinks = [
     {
       id: "home",
@@ -100,3 +103,18 @@ export const menuLinks = [
       level: "Basic",
     },
   ];
+
+export const projectsList= [
+    {
+      id: "project1",
+      name: "Modern Bank Website",
+      link: "https://daiannebauer.github.io/modern_bank/",
+      image: Hoobank, 
+    },
+    {
+      id: "project2",
+      name: "ToDo List",
+      link: "https://www.github.com/daiannebauer",
+      image: ToDo, 
+    },
+  ]
