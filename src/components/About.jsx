@@ -13,7 +13,7 @@ const About = () => (
 
             <div className="about__data">
                 <p className="about__description">
-                Front-end engineer with 3 years of experience in designing and developing code for websites and networks.
+                Web Developer with 3 years of experience in designing and developing code for websites and networks.
                 Demonstrated expertise in creating visually appealing and user-friendly web
                 experiences. Proficient in web development technologies and frameworks. Committed to delivering high-quality
                 solutions that meet client requirements.

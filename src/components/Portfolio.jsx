@@ -3,8 +3,8 @@ import "../styles/portfolio.css";
 import Projects from "./Projects";
 
 const Portfolio = () => (
-    <section className="portfolio section">
-       <h2 className="section__title">My Portfolio</h2>
+    <section id="portfolio" className="portfolio section">
+       <h2 className="section__title">My Projects</h2>
 
        <Projects />
     </section>

@@ -1,5 +1,5 @@
 import Hoobank from "../assets/Hoobank.jpg";
-import ToDo from "../assets/work5.jpg";
+import Lenscape from "../assets/Lenscape.jpg";
 
 export const menuLinks = [
     {
@@ -12,11 +12,11 @@ export const menuLinks = [
       icon: "uil uil-user",
       name: "About",
     },
-    {
+    /*{
       id: "skills",
       icon: "uil uil-file-alt",
       name: "Skills",
-    },
+    },*/
     {
       id: "portfolio",
       icon: "uil uil-scenery",
@@ -41,9 +41,9 @@ export const menuLinks = [
       link: "https://www.linkedin.com/daiannebauer",
     },
     {
-      id: "dribble",
-      icon: "uil uil-dribbble",
-      link: "https://dribbble.com/daiannebauer",
+      id: "email",
+      icon: "uil uil-envelope",
+      link: "mailto:daiannebauer@gmail.com",
     },
   ];
 
@@ -113,8 +113,8 @@ export const projectsList= [
     },
     {
       id: "project2",
-      name: "ToDo List",
-      link: "https://www.github.com/daiannebauer",
-      image: ToDo, 
+      name: "Lenscape - Social Media",
+      link: "https://daiannebauer.github.io/lenscape/",
+      image: Lenscape, 
     },
   ]

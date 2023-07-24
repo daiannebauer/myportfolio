@@ -6,7 +6,10 @@ const Data = () => (
             Daianne Bauer
         </h1>
         <h3 className="home__subtitle">Web Developer</h3>
-        <p className="home__description">Seattle-based web developer and UX enthusiast. Committed to creating engaging online experiences.</p>
+        <p className="home__description">
+            Seattle-based web developer and UX enthusiast. Committed to creating engaging online experiences.<br/><br/>
+            Tech Stacks: HTML, CSS, JavaScript, React.js.
+        </p>
     </div>
 )
 

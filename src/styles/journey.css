@@ -1,3 +1,7 @@
+.journey__section {
+    margin-top: var(--mt-6);
+}
+
 .journey__container {
     max-width: 768px;;
 }

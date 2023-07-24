@@ -3,7 +3,7 @@ import "../styles/journey.css";
 
 const Journey = () => {
   return (
-    <section className="journey_section">
+    <section className="journey__section">
         <h2 className="section__title">My journey</h2>
 
         <div className="journey__container container">
