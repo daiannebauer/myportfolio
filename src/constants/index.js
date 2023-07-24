@@ -38,7 +38,7 @@ export const menuLinks = [
     {
       id: "linkedin",
       icon: "uil uil-linkedin-alt",
-      link: "https://www.linkedin.com/daiannebauer",
+      link: "https://www.linkedin.com/in/daiannebauer",
     },
     {
       id: "email",
