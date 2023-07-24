@@ -8,6 +8,7 @@ const Social = () => (
             key={social.id}
             href={`${social.link}`}
             className="home__social-icon"
+            target="_blank" rel="noreferrer"
         >
             <i className={`${social.icon}`}></i>
         </a>

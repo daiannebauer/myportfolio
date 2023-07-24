@@ -7,8 +7,6 @@ const Data = () => (
         </h1>
         <h3 className="home__subtitle">Web Developer</h3>
         <p className="home__description">Seattle-based web developer and UX enthusiast. Committed to creating engaging online experiences.</p>
-
-        
     </div>
 )
 
